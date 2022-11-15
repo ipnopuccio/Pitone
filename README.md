@@ -1,1 +1,1 @@
-# Cartella conesercizi e appunti per l'esame di laboratorio 2022/2023
+# Cartella contenente esercizi per l'esame di laboratorio 2022/2023
